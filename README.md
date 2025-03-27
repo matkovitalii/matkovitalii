@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: coding/reading book
 -->
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=matkovitalii&show_icons=true&count_private=true&theme=algolia" />
